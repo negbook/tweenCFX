@@ -2,6 +2,16 @@
 Standalone  
 But it will be included in the Threads script in the future.
 
+
+#Functions
+```
+--object = lua table
+TweenCFX.Tween.removeTween (object)  --cancel a tween
+TweenCFX.Tween.endTween (object, forceComplete)  --force to the end of tween
+TweenCFX.Tween.to (object, duration, vars)  --from something to the end such as alpha
+TweenCFX.Tween.delayCall (object, duration, vars) --from something to the end such as alpha but not change/tween anything.
+```
+
 #Example
 
 ```
