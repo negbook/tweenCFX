@@ -1,6 +1,6 @@
 # tweenCFX
-Standalone  
-But it will be included in the Threads script in the future.
+Standalone  [No more updated]  
+Included in the [Threads](https://github.com/negbook/threads) script .
 
 
 #Functions
